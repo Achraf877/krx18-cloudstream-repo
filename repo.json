@@ -1,0 +1,15 @@
+{
+    "name": "Krx18 CloudStream Repo",
+    "plugins": [
+        {
+            "name": "Krx18",
+            "type": "anime",
+            "internalName": "krx18",
+            "version": "1.0.0",
+            "language": "en",
+            "author": "ChatGPT",
+            "description": "Krx18 website plugin for CloudStream",
+            "url": "plugin.kt"
+        }
+    ]
+}
